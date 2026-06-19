@@ -1,8 +1,6 @@
 # M. abscessus MOM/CW proteomics analysis
 
-This repository contains the R script used for the R-based proteomics analysis associated with the manuscript:
-
-**Integrated subcellular fractionation proteomics and structural prediction analysis identifies putative mycolic acid outer membrane proteins and ESX-associated toxin systems in *Mycobacterium abscessus*.**
+This repository contains the R script used for the R-based proteomics analysis associated with the manuscript.
 
 ## Files
 
